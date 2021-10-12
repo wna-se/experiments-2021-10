@@ -15,8 +15,8 @@ PE300_COVseq_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatig
 PE150_COVseq_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatigue, loss of taste",dead,laryngopharynx
 NEBNext_OAS-13,OAS-13,female,31/3/2020,"Italy, Turin, Torino",83,ill,"fatigue, loss of taste",dead,laryngopharynx
 PE300_COVseq_OAS-14,OAS-14,Male,4/1/2020,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
-PE150_COVseq_OAS-14,OAS-14,M,4/1/2021,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
-NEBNext_OAS-14,OAS-14,M,4/1/2022,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
+PE150_COVseq_OAS-14,OAS-14,M,4/1/2020,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
+NEBNext_OAS-14,OAS-14,M,4/1/2020,"Italy, Turin, Campidoglio",21,ill,fever,dead,laryngopharynx
 PE300_COVseq_OAS-15,OAS-15,Female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
 PE150_COVseq_OAS-15,OAS-15,female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
 NEBNext_OAS-15,OAS-15,female,1/4/2020,"Italy, Turin, Turin",44,healthy,N/A,healthy,lung
